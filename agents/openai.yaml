@@ -1,0 +1,4 @@
+interface:
+  display_name: "가족 크루즈 플래너"
+  short_description: "가족 구성과 일정에 맞는 크루즈 여행 HTML을 설계합니다."
+  default_prompt: "가족 구성, 희망 월, 지역, 선사, 기간, 예산을 반영해 실행 가능한 크루즈 여행 플래너 HTML을 만들어 주세요."
